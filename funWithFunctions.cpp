@@ -3,8 +3,11 @@
 using namespace std;
 
 void getAnIntFromTheUser();
+
 void compareTwoInts();
+
 void sumTwoInts();
+
 int main() {
     getAnIntFromTheUser();
     compareTwoInts();
